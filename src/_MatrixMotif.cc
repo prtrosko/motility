@@ -14,6 +14,9 @@
  * Titus directly.
  *
  */ 
+
+#include <stdio.h>
+
 #include "_MatrixMotif.hh"
 
 using namespace motility;

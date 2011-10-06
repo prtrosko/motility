@@ -14,5 +14,8 @@
  * Titus directly.
  *
  */ 
+
+#include <stdio.h>
+
 #include "motility.hh"
 #include "Motif.hh"

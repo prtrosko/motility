@@ -14,6 +14,9 @@
  * Titus directly.
  *
  */ 
+
+#include <stdio.h>
+
 #include "EnergyOperator.hh"
 
 using namespace motility;

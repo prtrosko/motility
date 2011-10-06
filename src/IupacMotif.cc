@@ -14,6 +14,9 @@
  * Titus directly.
  *
  */ 
+
+#include <stdio.h>
+
 #include "IupacMotif.hh"
 #include <cctype>
 #include <algorithm>

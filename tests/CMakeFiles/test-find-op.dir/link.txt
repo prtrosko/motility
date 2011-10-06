@@ -1,0 +1,1 @@
+/usr/bin/g++    -fPIC   CMakeFiles/test-find-op.dir/test-find-op.cc.o  -o test-find-op -rdynamic -L/u/trosko/projects/motility/motility/src -L/u/trosko/projects/motility/motility/motility/src ../src/libmotility.a -Wl,-rpath,/u/trosko/projects/motility/motility/src:/u/trosko/projects/motility/motility/motility/src 

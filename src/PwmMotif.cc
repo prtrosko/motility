@@ -14,6 +14,9 @@
  * Titus directly.
  *
  */ 
+
+#include <stdio.h>
+
 #include "PwmMotif.hh"
 
 using namespace motility;

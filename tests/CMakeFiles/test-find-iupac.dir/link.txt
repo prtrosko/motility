@@ -1,0 +1,1 @@
+/usr/bin/g++    -fPIC   CMakeFiles/test-find-iupac.dir/test-find-iupac.cc.o  -o test-find-iupac -rdynamic -L/u/trosko/projects/motility/motility/src -L/u/trosko/projects/motility/motility/motility/src ../src/libmotility.a -Wl,-rpath,/u/trosko/projects/motility/motility/src:/u/trosko/projects/motility/motility/motility/src 

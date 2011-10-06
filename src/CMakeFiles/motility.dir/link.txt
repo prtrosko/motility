@@ -1,0 +1,2 @@
+/usr/bin/ar cr libmotility.a  CMakeFiles/motility.dir/DnaSequence.cc.o CMakeFiles/motility.dir/motility.cc.o CMakeFiles/motility.dir/LiteralMotif.cc.o CMakeFiles/motility.dir/_MatrixMotif.cc.o CMakeFiles/motility.dir/PwmMotif.cc.o CMakeFiles/motility.dir/IupacMotif.cc.o CMakeFiles/motility.dir/EnergyOperator.cc.o
+/usr/bin/ranlib libmotility.a

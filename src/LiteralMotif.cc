@@ -16,6 +16,9 @@
  */ 
 // Implementation of literal (== exact) motif finding.
 
+
+#include <stdio.h>
+
 #include "LiteralMotif.hh"
 
 using namespace motility;

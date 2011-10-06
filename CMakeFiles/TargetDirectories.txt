@@ -1,0 +1,9 @@
+/u/trosko/projects/motility/motility/src/CMakeFiles/motility.dir
+/u/trosko/projects/motility/motility/python/CMakeFiles/motility_ext.dir
+/u/trosko/projects/motility/motility/python/CMakeFiles/motility_py.dir
+/u/trosko/projects/motility/motility/python/CMakeFiles/motility_py_install.dir
+/u/trosko/projects/motility/motility/tests/CMakeFiles/test-find-iupac.dir
+/u/trosko/projects/motility/motility/tests/CMakeFiles/test-find-literal.dir
+/u/trosko/projects/motility/motility/tests/CMakeFiles/test-find-op.dir
+/u/trosko/projects/motility/motility/tests/CMakeFiles/test-find-pwm.dir
+/u/trosko/projects/motility/motility/tests/CMakeFiles/test-sequence.dir
