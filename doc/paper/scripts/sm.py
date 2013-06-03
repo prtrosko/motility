@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python
 
 # motility sm.py
 
@@ -26,7 +26,7 @@ starttimetata = datetime.datetime.now( )
 
 #print >> outputfile,  motility.find_exact(sequence, "TATAA")
 tatacount =  motility.find_exact(sequence, "TATAA")
-print len(tatacount)
+#print len(tatacount)
 
 #print motility.find_exact(sequence, "ATATT")
 #print motility.find_exact(sequence, "TTATA")
@@ -34,7 +34,7 @@ endtimetata = datetime.datetime.now( )
 starttimesmall = datetime.datetime.now( )
 #print >> outputfile,  motility.find_exact(sequence, "GTTCGGCG")
 gccount =  motility.find_exact(sequence, "GTTCGGCG")
-print len(gccount)
+#print len(gccount)
 
 #print motility.find_exact(sequence, "CAAGCCGC")
 #print motility.find_exact(sequence, "CGCCGAAC")

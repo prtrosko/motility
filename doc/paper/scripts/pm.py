@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python
 
 # Motility Position Weight searches.
 
@@ -33,7 +33,7 @@ print >> outputfile,  pwm.max_score(), pwm.min_score()
 
 #print >> outputfile,  pwm.find(sequence, 10.57)
 countlist =  pwm.find(sequence, 10.57)
-print len(countlist)
+#print len(countlist)
 
 for site in ['AGATAA', 'TGATAA', 'AGATAG']:
 	print >> outputfile,  site, pwm.calc_score(site)
@@ -52,7 +52,7 @@ matrix.generate_sites_over(6.0)
 
 #print >> outputfile,  matrix.find(sequence, 10.57)
 countlist2 =  pwm.find(sequence, 10.57)
-print len(countlist2)
+#print len(countlist2)
 
 endtimepm = datetime.datetime.now( )
 
