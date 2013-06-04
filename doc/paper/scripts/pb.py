@@ -53,5 +53,5 @@ endtimepm = datetime.datetime.now( )
 
 timefile = open ("OUTPUT/pb.time", "w", 1)
 
-print >> timefile, "Biopyhton Position Weight matrix matches!"
+print >> timefile, "Biopyhton Position Weight matches"
 print >> timefile, "Biopython PWM match time: ", endtimepm - starttimepm

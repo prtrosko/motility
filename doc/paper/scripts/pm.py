@@ -59,6 +59,6 @@ endtimepm = datetime.datetime.now( )
 
 timefile = open("OUTPUT/pm.time", "w", 1)
 
-print >> timefile,  "end Motility Position Weight matches"
+print >> timefile,  "Motility Position Weight matches"
 print >> timefile,  "Motility PM: ", endtimepm - starttimepm
 

@@ -92,7 +92,7 @@ endsearchtime = datetime.datetime.now( )
 
 timefile = open("OUTPUT/ib.time", "w")
 
-print >> timefile, "Biopyhton exact matches done"
+print >> timefile, "Biopyhton exact matches"
 Deltatime = sequenceendtime - sequencestarttime
 print >>timefile,  "Sequence Read in Time: ", Deltatime
 

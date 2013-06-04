@@ -30,7 +30,7 @@ endtimeiupac = datetime.datetime.now( )
 
 timefile = open("OUTPUT/im.time", "w")
 
-print >> timefile, "End Motility iupac matches!"
+print >> timefile, "Motility iupac matches"
 #Deltatime = sequenceendtime - sequencestarttime
 #print >>timefile,  "Sequence Read in Time: ", Deltatime
 Deltatime = endtimeiupac - starttimeiupac

@@ -68,7 +68,7 @@ print >>outputfile, tqs2.scan(sequence)
 endtimepm = datetime.datetime.now( )
 
 
-timefile = open("OUTPUT/mt.time", "w", 1)
+timefile = open("OUTPUT/pt.time", "w", 1)
 
-print >> timefile, "TAMO position weight seach"
-print >> timefile, "TAMO PM time: ", endtimepm - starttimepm
+print >> timefile, "TAMO position weight matches"
+print >> timefile, "TAMO PT time: ", endtimepm - starttimepm

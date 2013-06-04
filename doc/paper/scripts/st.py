@@ -99,7 +99,7 @@ endtimeverylarge = datetime.datetime.now( )
 
 timing = open ("OUTPUT/st.time", "w", 1)
 
-print >> timing,  "end TAMO exact matches!"
+print >> timing,  "TAMO exact matches"
 print >> timing,  "TATA times: ", endtimetata - starttimetata
 print >> timing,  "Small times: ", endtimesmall - starttimesmall
 print >> timing,  "Medium times: ", endtimemedium - starttimemedium

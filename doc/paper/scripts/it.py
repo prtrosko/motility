@@ -32,7 +32,7 @@ endtimeiupac = datetime.datetime.now( )
 
 timefile = open("OUTPUT/it.time", "w")
 
-print >> timefile, "TAMO IUPAC matches!"
+print >> timefile, "TAMO IUPAC matches"
 Deltatime = endtimeiupac - starttimeiupac
 print  >>timefile,  "tamo IUPAC TIME: ",  endtimeiupac - starttimeiupac
 
